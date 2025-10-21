@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "title": "Burger",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M6HASPARCZHYNN4XTUYT7H6PTE.jpg&w=800&h=600",
+        "dis": "Classic beef burger with lettuce, tomato, and cheese.",
+        "price": 3.50
+    },
+    {
+        "id": 2,
+        "title": "Cheese Pizza",
+        "image": "https://images.food52.com/RJT0czws9oCewF6GkS7HJk4_gcs=/d204200b-79ac-4f43-95a7-8e3bf66364b9--2020-0310_crispy-cheesy-pan-pizza-genius_3x2_julia-gartland_271.jpg",
+        "dis": "Hot cheese pizza with crispy crust and rich tomato sauce.",
+        "price": 4.00
+    },
+    {
+        "id": 3,
+        "title": "Fried Chicken",
+        "image": "https://www.allrecipes.com/thmb/WSSoRAz2IygrMPkiJxHPbt9gqMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8635-southern-fried-chicken-ddmfs_4x3-90736ab31a7a4bb59eb04e2380ccebe7.jpg",
+        "dis": "Crispy fried chicken with golden crust and juicy meat.",
+        "price": 5.25
+    },
+    {
+        "id": 4,
+        "title": "Hot Dog",
+        "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/5cf6c117f5c41319d85be7490cbb0e47/Derivates/0fa2242bd92c2f55248c9d38bdbca4b5d543a220.jpg",
+        "dis": "Grilled sausage in a soft bun with ketchup and mustard.",
+        "price": 2.75
+    },
+    {
+        "id": 5,
+        "title": "French Fries",
+        "image": "https://images.themodernproper.com/production/posts/2022/Homemade-French-Fries_8.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&dm=1662474181&s=15046582e76b761a200998df2dcad0fd",
+        "dis": "Crispy golden fries lightly salted and perfect for snacking.",
+        "price": 1.99
+    },
+    {
+        "id": 6,
+        "title": "Chicken Nuggets",
+        "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2025/05/Homemade-Chicken-Nuggets-Recipe.jpg",
+        "dis": "Tender chicken pieces coated in crunchy breadcrumbs.",
+        "price": 3.25
+    },
+    {
+        "id": 7,
+        "title": "Taco",
+        "image": "https://danosseasoning.com/wp-content/uploads/2022/03/Beef-Tacos-1024x767.jpg",
+        "dis": "Soft corn tortilla filled with beef, lettuce, and cheese.",
+        "price": 2.85
+    },
+    {
+        "id": 8,
+        "title": "Sandwich",
+        "image": "https://www.watermelon.org/wp-content/uploads/2023/02/Sandwich_2023.jpg",
+        "dis": "Fresh sandwich with ham, cheese, and crisp vegetables.",
+        "price": 3.75
+    },
+    {
+        "id": 9,
+        "title": "Donut",
+        "image": "https://cdn.britannica.com/38/230838-050-D0173E79/doughnuts-donuts.jpg",
+        "dis": "Soft glazed donut with a sweet vanilla coating.",
+        "price": 1.50
+    },
+    {
+        "id": 10,
+        "title": "Ice Cream",
+        "image": "https://bakerstable.net/wp-content/uploads/2024/07/vanilla-ice-cream-2024-7-scaled.jpg",
+        "dis": "Creamy vanilla ice cream served in a waffle cone.",
+        "price": 2.25
+    },
+    {
+        "id": 11,
+        "title": "Milkshake",
+        "image": "https://www.spoonforkbacon.com/wp-content/uploads/2023/05/make-milkshakes.jpg",
+        "dis": "Cold, creamy milkshake available in chocolate or strawberry flavor.",
+        "price": 2.95
+    },
+    {
+        "id": 12,
+        "title": "Fried Rice",
+        "image": "https://thewoksoflife.com/wp-content/uploads/2020/10/vegetable-fried-rice-13.jpg",
+        "dis": "Savory fried rice with vegetables and soy sauce flavor.",
+        "price": 3.25
+    },
+    {
+        "id": 13,
+        "title": "Spaghetti",
+        "image": "https://www.giallozafferano.com/images/228-22832/spaghetti-with-tomato-sauce_1200x800.jpg",
+        "dis": "Italian-style spaghetti with tomato sauce and cheese.",
+        "price": 4.50
+    },
+    {
+        "id": 14,
+        "title": "Steak",
+        "image": "https://images.pexels.com/photos/33967668/pexels-photo-33967668/free-photo-of-delicious-grilled-steak-with-fries-and-salad.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "dis": "Juicy grilled steak served with fries and salad.",
+        "price": 8.50
+    },
+    {
+        "id": 15,
+        "title": "Pasta Salad",
+        "image": "https://flavormosaic.com/wp-content/uploads/2022/05/Tri-Color-Rotini-Pasta-Salad-5.jpg",
+        "dis": "Colorful pasta salad mixed with fresh vegetables and dressing.",
+        "price": 3.95
+    },
+    {
+        "id": 16,
+        "title": "Fried Fish",
+        "image": "https://andrewzimmern.com/wp-content/uploads/Andrew-Zimmern-Recipe-Fried-Fish-with-Tartar-Sauce-scaled.jpg",
+        "dis": "Crispy fried fish fillet served with tartar sauce.",
+        "price": 4.75
+    },
+    {
+        "id": 17,
+        "title": "Onion Rings",
+        "image": "https://www.saveur.com/uploads/2008/06/10/Onion-Rings-Linda-Pugliese.jpg?auto=webphttps://www.onionringsandthings.com/wp-content/uploads/2013/07/crispy-onion-rings-1.jpg",
+        "dis": "Crispy onion rings with golden coating and sweet flavor.",
+        "price": 2.50
+    },
+    {
+        "id": 18,
+        "title": "Chicken Wrap",
+        "image": "https://www.perdue.com/sites/default/files/styles/recipe_hero_banner/public/grilled_chicken_arugula_salad_wrap_tada.jpg?h=ddb1ad0c&itok=IGRlvPYM",
+        "dis": "Grilled chicken wrap with lettuce, tomato, and sauce.",
+        "price": 3.95
+    },
+    {
+        "id": 19,
+        "title": "BBQ Ribs",
+        "image": "https://foodland.com/wp-content/uploads/2025/07/Tender-Smoky-Oven-Baked-BBQ-Ribs-Web.jpg",
+        "dis": "Tender pork ribs glazed with smoky BBQ sauce.",
+        "price": 7.50
+    },
+    {
+        "id": 20,
+        "title": "Salad Bowl",
+        "image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.webp",
+        "dis": "Healthy salad bowl with fresh greens and light dressing.",
+        "price": 3.25
+    },
+    {
+        "id": 21,
+        "title": "Coffee",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/065/288/634/small/freshly-brewed-cup-of-coffee-steaming-hot-ready-to-energize-your-day-with-its-rich-aroma-and-bold-flavor-photo.jpeg",
+        "dis": "Freshly brewed hot coffee with a rich aroma.",
+        "price": 1.75
+    },
+    {
+        "id": 22,
+        "title": "Fruit Juice",
+        "image": "https://storage.googleapis.com/jm-gcp-bethestory-p-12po-bucket/uploads/2020/11/fresh-fruit-juice.jpg",
+        "dis": "Chilled fruit juice made from fresh tropical fruits.",
+        "price": 2.00
+    },
+    {
+        "id": 23,
+        "title": "Cupcake",
+        "image": "https://www.allrecipes.com/thmb/riDYvmalWk8QgJDBT_pZRkpfpR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17377-chocolate-cupcakes-DDMFS-4x3-622a7a66fcd84692947794ed385dc991.jpg",
+        "dis": "Sweet chocolate cupcake topped with creamy frosting.",
+        "price": 1.85
+    },
+    {
+        "id": 24,
+        "title": "Smoothie",
+        "image": "https://www.allrecipes.com/thmb/aMLtmuAFr01C66eai_OtGRF0Xu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20792-b-and-ls-strawberry-smoothie-ddmfs-0321-3x4-hero-f9aad20d876448a49a3561bec1da6363.jpg",
+        "dis": "Fresh fruit smoothie blended with milk and ice.",
+        "price": 2.75
+    }
+]
